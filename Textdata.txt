@@ -1,0 +1,6 @@
+An inverted yield curve is an interest rate environment in which long-term debt instruments have a lower yield than short-term debt instruments of the same credit quality. This type of yield curve is the rarest of the three main curve types and is considered to be a predictor of economic recession.
+
+
+A partial inversion occurs when only some of the short-term Treasuries (five or 10 years) have higher yields than 30-year Treasuries. An inverted yield curve is sometimes referred to as a negative yield curve.
+
+Historically, inversions of the yield curve have preceded many of the U.S. recessions. Due to this historical correlation, the yield curve is often seen as an accurate forecast of the turning points of the business cycle. A recent example is when the U.S. Treasury yield curve inverted in late 2005, 2006, and again in 2007 before U.S. equity markets collapsed. The curve also inverted in late 2018. An inverse yield curve predicts lower interest rates in the future as longer-term bonds are demanded, sending the yields down.
